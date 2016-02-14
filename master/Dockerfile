@@ -1,6 +1,6 @@
 # Composer Docker Container
-FROM composer/composer:base
-MAINTAINER Rob Loach <robloach@gmail.com>
+FROM minebrand/composer:base
+MAINTAINER khanhtruong <khanhtruong@pimmor.com>
 
 ENV COMPOSER_VERSION master
 
